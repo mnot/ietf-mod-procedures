@@ -5,6 +5,7 @@ This directory contains the documents produced by the IETF Moderator Team.
 - [procedures.md](procedures.md): the moderation procedures that forum administrators and the
   moderator team follow when handling disruptive participation in IETF forums
 - [scope.md](scope.md): which forums the procedures apply to, kept up to date by the moderator team
+- [principles.md](principles.md): principles for making decisions under the procedures
 - [newcomer-rejection-message.txt](newcomer-rejection-message.txt): the standard reply sent when a
   message from someone not subscribed to a list is not delivered
 

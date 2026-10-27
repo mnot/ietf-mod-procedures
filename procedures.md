@@ -14,6 +14,10 @@ infrastructure, so the address of a list is not always a reliable guide. The mod
 maintains the current list of forums in and out of scope in [scope.md](scope.md), and updates it as
 other bodies opt in.
 
+## Principles
+
+Applying these procedures requires judgment both in deciding whether conduct is an incident and in choosing a sanction. The principles in [principles.md](principles.md) guide decision-makers and reviewers; they give a respondent no right to a particular outcome.
+
 # Responsibilities
 
 ## Moderator team
